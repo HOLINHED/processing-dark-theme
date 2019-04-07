@@ -8,6 +8,8 @@ I did NOT create this from scratch. I modified this https://github.com/jeffThomp
 
 # install
 
+THIS THEME USES A CUSTOM FONT! Make sure to install it first. https://sourcefoundry.org/hack/
+
   WINDOWS
   - [THEME] Go to the folder where you have processing installed, and drag the contents from the theme folder into the lib folder.
   - [PREFERENCES] Go to %appdata%/processing and drag the contents from the preferences folder into there.
